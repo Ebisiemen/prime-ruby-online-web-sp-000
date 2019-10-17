@@ -5,3 +5,12 @@ def prime?(number)
     false 
   end 
 end   
+
+
+def prime?(number)
+  if number == (x < number ** y < number)
+    true
+  else 
+    false 
+  end   
+end     

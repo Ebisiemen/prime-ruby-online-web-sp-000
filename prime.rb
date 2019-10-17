@@ -8,6 +8,8 @@
 
 
 def prime?(number)
+  x = Integer
+  y = Integer
   if number == (x < number ** y < number)
     true
   else 
